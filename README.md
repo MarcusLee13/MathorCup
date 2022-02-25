@@ -61,7 +61,7 @@ checkpoint=torch.load("/content/sdh/exper_info/2021-01-19_11-56/checkpoint/check
 
 7. 得到形如这样的图片
 
-![image-20210120154040748](img/README/image-20210120154040748.png)
+![image-20210120154040748](images/image-20210120154040748.png)
 
 
 
